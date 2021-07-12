@@ -1,1 +1,1 @@
-# rsschool-cv
+[Avtandil Oziashvili's CV](https://github.com/AvtandilOziashvili/rsschool-cv/CV.md)
